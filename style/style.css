@@ -1,0 +1,28 @@
+.board,tr ,td {
+    border: 3px solid !important;
+    border-color: black;
+    text-align: center;
+}
+
+.gameBoard
+{
+   width:80%;
+}
+.playerZone, .enemyZone{
+margin: 25px;
+width:600px;
+height: 400px;
+float: left;
+
+}
+/* table
+{
+    width:300px;
+    height: 300px;
+    float: left;
+} */
+#ui{clear: both;margin: 25px;}
+#ui > *{
+    margin:10px;
+    margin-left: 0;
+}
