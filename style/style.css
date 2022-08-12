@@ -44,10 +44,10 @@ float: left;
 .Carrier3{background-color: black;}
 .Carrier4{background-color: black;}
 
-.Battleship0{background-color: red;}
-.Battleship1{background-color: red;}
-.Battleship2{background-color: red;}
-.Battleship3{background-color: red;}
+.Battleship0{background-color: orange;}
+.Battleship1{background-color: orange;}
+.Battleship2{background-color: orange;}
+.Battleship3{background-color: orange;}
 
 .Cruiser0{background-color: blue;}
 .Cruiser1{background-color: blue;}
@@ -66,4 +66,12 @@ float: left;
 }
 .filled{
     background-color: green;
+}
+.hit
+{
+    background-color: red;
+}
+.miss
+{
+    background-color: gray;
 }
